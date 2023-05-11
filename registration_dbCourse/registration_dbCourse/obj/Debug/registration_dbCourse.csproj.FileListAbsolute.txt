@@ -1,0 +1,13 @@
+D:\_Diploma\Progect_D\registration_dbCourse\registration_dbCourse\obj\Debug\registration_dbCourse.csproj.AssemblyReference.cache
+D:\_Diploma\Progect_D\registration_dbCourse\registration_dbCourse\obj\Debug\registration_dbCourse.Start_Form.resources
+D:\_Diploma\Progect_D\registration_dbCourse\registration_dbCourse\obj\Debug\registration_dbCourse.Properties.Resources.resources
+D:\_Diploma\Progect_D\registration_dbCourse\registration_dbCourse\obj\Debug\registration_dbCourse.csproj.GenerateResource.cache
+D:\_Diploma\Progect_D\registration_dbCourse\registration_dbCourse\obj\Debug\registration_dbCourse.csproj.CoreCompileInputs.cache
+D:\_Diploma\Progect_D\registration_dbCourse\registration_dbCourse\obj\Debug\registration_dbCourse.AddUserForm.resources
+D:\_Diploma\Progect_D\registration_dbCourse\registration_dbCourse\obj\Debug\registration_dbCourse.AddWorker_Form.resources
+D:\_Diploma\Progect_D\registration_dbCourse\registration_dbCourse\obj\Debug\registration_dbCourse.MainWork_Form.resources
+D:\_Diploma\Progect_D\registration_dbCourse\registration_dbCourse\bin\Debug\registration_dbCourse.exe.config
+D:\_Diploma\Progect_D\registration_dbCourse\registration_dbCourse\bin\Debug\registration_dbCourse.exe
+D:\_Diploma\Progect_D\registration_dbCourse\registration_dbCourse\bin\Debug\registration_dbCourse.pdb
+D:\_Diploma\Progect_D\registration_dbCourse\registration_dbCourse\obj\Debug\registration_dbCourse.exe
+D:\_Diploma\Progect_D\registration_dbCourse\registration_dbCourse\obj\Debug\registration_dbCourse.pdb
